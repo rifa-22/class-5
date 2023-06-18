@@ -1,0 +1,26 @@
+a{
+    font-size: 30px;
+    color: red;
+    
+    
+}
+h1{
+    color: yellowgreen;
+    background-color: brown;
+    font-size: 30px;
+    
+}
+h6{
+    font-size: 20;
+    line-height: 10x;
+}
+p{
+    font-size: 20px;
+    text-align: justify;
+}
+img{
+    width: 500px;
+    height: 300px;
+    object-fit: contain;
+
+}
